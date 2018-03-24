@@ -1,0 +1,27 @@
+[
+{
+    "name": "celos",
+        "age":"24",
+        "major":"Computer Science"
+},
+{
+    "name": "bob",
+        "age":"21",
+        "major":"Computer Science"
+},
+{
+    "name": "Tu",
+        "age":"22",
+        "major":"Business"
+},
+{
+    "name": "Merry",
+        "age":"30",
+        "major":"Doctor"
+},
+{
+    "name": "Tran",
+        "age":"28",
+        "major":"Accountant"
+}
+]
